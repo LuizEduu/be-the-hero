@@ -29,7 +29,6 @@ Clonando o projeto
 
 git clone https://github.com/luiz3g/be-the-hero.git
 
-cd semana-omnistack-11
 npm install
 
 Iniciando Backend
